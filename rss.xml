@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Medical Devices]]></title>
+        <description><![CDATA[Medical Devices]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Jun 2016 21:36:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tips For Developing Medical Device User Needs Intended Uses And Design Inputs]]></title>
+            <description><![CDATA[<article><h1>Tips For Developing Medical Device User Needs Intended Uses And Design Inputs</h1><p>By Byron Larson , president, Toltec Ventures The FDA's Design Control Guidance for Medical Device Manufacturers states, "Development of a solid foundation of requirements is the single most important design control activity." This concept is likely to be self-evident to experienced medical device practitioners. However, what exactly is meant by the term "requirements"?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bb2b9ce1b3f6e08680ab69adf902f14b818a24e.jpg"></article>]]></description>
+            <link>http://www.meddeviceonline.com/doc/tips-for-developing-medical-device-user-needs-intended-uses-and-design-inputs-0001</link>
+            <guid isPermaLink="false">e985edee-e64c-401f-8aa4-af0511045ede</guid>
+            <pubDate>Tue, 14 Jun 2016 21:36:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
