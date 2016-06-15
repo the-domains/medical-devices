@@ -23,6 +23,6 @@ color:
     - '#253237'
   brandStrength: 0.49336219672113657
   lightness: 0.30022848257794976
-  saturation: 0.04238026705570519
-  rhythmicContrast: 0.07964680646546185
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
